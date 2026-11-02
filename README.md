@@ -1,10 +1,10 @@
-# SteamRun-Privacy-Policy-
+# SteamJump-Privacy-Policy-
 
 English
 
 a policy of handling personal information
 
-Collection and Use of Personal Information This Service ("SteamRun") does not collect, store, transmit, or share your personal information. It does not require or store any identifying information, such as your name, email address, location, or contact information on the server.
+Collection and Use of Personal Information This Service ("SteamJump") does not collect, store, transmit, or share your personal information. It does not require or store any identifying information, such as your name, email address, location, or contact information on the server.
 
 How Data is Stored All game data (scores, progress, etc.) will only be stored in the local storage on your device and will be removed together when you delete the app. We do not have access to that data.
 
@@ -48,7 +48,7 @@ Copyright and intellectual property rights for all content within the service (t
 
 개인정보 처리방침
 
-개인정보의 수집 및 이용 본 서비스('SteamRun')는 사용자의 개인정보를 수집, 저장, 전송 또는 공유하지 않습니다. 사용자의 이름, 이메일 주소, 위치, 연락처 등 어떠한 식별 정보도 요구하거나 서버에 저장하지 않습니다.
+개인정보의 수집 및 이용 본 서비스('SteamJump')는 사용자의 개인정보를 수집, 저장, 전송 또는 공유하지 않습니다. 사용자의 이름, 이메일 주소, 위치, 연락처 등 어떠한 식별 정보도 요구하거나 서버에 저장하지 않습니다.
 
 데이터 저장 방식 모든 게임 데이터(점수, 진행 상황 등)는 사용자의 기기 내 로컬 저장소에만 저장되며, 앱 삭제 시 함께 제거됩니다. 당사는 해당 데이터에 접근할 권한이 없습니다.
 
@@ -58,7 +58,7 @@ Copyright and intellectual property rights for all content within the service (t
 
 이메일: giornogiobana1234@gmail.com
 
-이용 약관 제1조 (목적) 본 약관은 개발자/팀 이름이 제공하는 모바일 게임 '[SteamRun]'(이하 "서비스") 및 관련 서비스의 이용 조건과 절차를 규정함을 목적으로 합니다.
+이용 약관 제1조 (목적) 본 약관은 개발자/팀 이름이 제공하는 모바일 게임 '[SteamJump]'(이하 "서비스") 및 관련 서비스의 이용 조건과 절차를 규정함을 목적으로 합니다.
 
 제2조 (서비스의 제공 및 변경)
 
